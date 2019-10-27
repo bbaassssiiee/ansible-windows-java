@@ -2,3 +2,4 @@
 jdk_package: jdk8
 java_major_version: 8.0
 java_minor_version: 162
+win_programs: 'c:\program files\java\'
